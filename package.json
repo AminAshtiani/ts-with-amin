@@ -1,0 +1,27 @@
+{
+  "name": "ts3",
+  "version": "1.0.0",
+  "description": "learning fundamental of typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminAshtiani/ts-with-amin.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "Amin Ashtiani",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AminAshtiani/ts-with-amin/issues"
+  },
+  "homepage": "https://github.com/AminAshtiani/ts-with-amin#readme",
+  "devDependencies": {
+    "typescript": "4.3.2"
+  }
+}

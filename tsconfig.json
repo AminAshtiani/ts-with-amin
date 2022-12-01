@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // ts compiled files destination
+    "target": "ES2015" // level of JS support
+  },
+  "include": ["src"] // files going to compile location
+}
